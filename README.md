@@ -131,7 +131,7 @@
 ### 1. Клонирование репозитория
 
 ```powershell
-git clone <URL_ВАШЕГО_РЕПОЗИТОРИЯ>
+git clone https://github.com/VladiM1R41/Cyber_physical_systems_1.git
 cd Cyber_physical_systems_1
 ```
 
